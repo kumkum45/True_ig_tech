@@ -1,0 +1,8 @@
+Flask==3.0.0
+Flask-CORS==4.0.0
+python-dotenv==1.0.1
+Werkzeug==3.0.1
+SQLAlchemy==2.0.34
+passlib[bcrypt]==1.7.4
+PyJWT==2.9.0
+pg8000==1.25.0
